@@ -1,2 +1,5 @@
-# Personal
-backup
+# Quantitative Trading
+
+Personal quantitative trading accumulation
+
+
